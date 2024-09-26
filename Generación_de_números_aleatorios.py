@@ -1,3 +1,7 @@
+#Alumno: Jesus Armando Rosales Martinez
+#Matricula: 23040166
+#Materia: Simulacion
+#Grupo: 4Y
 import random
 
 def obtener_centrales(numero, longitud):
